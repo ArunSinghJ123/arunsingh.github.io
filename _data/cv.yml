@@ -1,0 +1,55 @@
+# - type: map
+#   contents:
+#     - name: Interests and Expertise
+#       value: Architecting, Strategizing, and Implementing Cloud and AI/ML Solutions <br>
+#             Gen AI - Amazon Q, Amazon Bedrock, Foundational Models, AI Agents, RAG <br>
+#             DevOps - Developer Productivity, Automation, IaC, Deployment Pipelines, Monitoring, and Logging <br>
+#             Reliability - Chaos Engineering, Fault Tolerance, and High Availability <br>
+#             Cost - Cost Optimization and FinOps
+
+- title: Education
+  type: time_table
+  contents:
+    - title: M.Sc. in Computer Networking
+      year: 2013-2015
+      institution: Wichita State University
+    - title: B.E. in Electronics and Communication
+      year: 2006-2010
+      institution: Karpagam College of Engineering
+      
+- title: Experience
+  type: time_table
+  contents:
+    - title: Senior Solutions Architect
+      institution: Amazon Web Services (AWS)
+      year: May 2022 - Present
+      description: |
+          AWS Awards:<br>
+          - Amazon Q Developer Gen AI Hackathon Winner in Software & Internet USA
+            Sales Organization <br>
+          - AWS Dynamic Duo Award for SA Account Partnership
+    - title: Enterprise Support Lead
+      institution: Amazon Web Services (AWS)
+      year: Jan 2022 - May 2022
+      description: |
+          AWS Awards:<br>
+          - Step in and Step out Award - Best Innovation  <br>
+          - Fuel the Flywheel Award - Best Account Story
+    - title: Senior Technical Account Manager
+      institution: Amazon Web Services (AWS)
+      year: Aug 2019 - Jan 2022
+    - title: Senior Cloud Engineer
+      institution: Nike
+      year: Feb 2018 - July 2019
+    - title: Senior Cloud Engineer
+      institution: Fannie Mae
+      year: Nov 2017 - Feb 2018
+    - title: Cloud Infrastructure Engineer
+      institution: Nike
+      year: Mar 2017 - Nov 2017
+    - title: Software Engineer
+      institution: Whirlpool Corporation
+      year: Aug 2015 - Mar 2017
+    - title: Supplemental Instructor
+      institution: Wichita State University
+      year: Aug 2014 - June 2015
